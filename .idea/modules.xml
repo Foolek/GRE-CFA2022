@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exercices-prog.-procedurale/Exercices-prog.-procedurale.iml" filepath="$PROJECT_DIR$/Exercices-prog.-procedurale/Exercices-prog.-procedurale.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GRE-CFA2022.iml" filepath="$PROJECT_DIR$/.idea/GRE-CFA2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TPFile/TPFile.iml" filepath="$PROJECT_DIR$/TPFile/TPFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TPinterface/TPinterface.iml" filepath="$PROJECT_DIR$/TPinterface/TPinterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TpClasseObjetEncapsulation/TpClasseObjetEncapsulation.iml" filepath="$PROJECT_DIR$/TpClasseObjetEncapsulation/TpClasseObjetEncapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TpCollection/TpCollection.iml" filepath="$PROJECT_DIR$/TpCollection/TpCollection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TpExcetion/TpExcetion.iml" filepath="$PROJECT_DIR$/TpExcetion/TpExcetion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TpHeritageEtPolymorphisme/TpHeritageEtPolymorphisme.iml" filepath="$PROJECT_DIR$/TpHeritageEtPolymorphisme/TpHeritageEtPolymorphisme.iml" />
+    </modules>
+  </component>
+</project>
