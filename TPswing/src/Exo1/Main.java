@@ -4,9 +4,15 @@ import javax.swing.*;
 
 public class Main {
 	public static void main(String[] args) {
-		new fenetre();
-	}
-	public Main() {
 
+		javax.swing.SwingUtilities.invokeLater(new Runnable() {
+			@Override
+			public void run() {
+				new fenetre();
+
+			}
+		});
+!
 	}
+
 }
