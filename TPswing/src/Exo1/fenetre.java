@@ -54,6 +54,7 @@ public class fenetre extends JFrame {
 		});
 		return null;
 	}
+
 	private JButton rouge(){
 		JButton rougebtn = new JButton("rouge");
 		pan.add(rougebtn);
