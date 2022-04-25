@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="http://141.94.221.173" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="http://141.94.221.173">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/var/lib/tomcat9/webapps" local="$PROJECT_DIR$/war/TpTennis_war2" web="http://141.94.221.173:8080/TpTennis_war/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
