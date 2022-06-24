@@ -9,8 +9,8 @@ public class ConnectionManager {
    private static final String URL = "jdbc:mariadb://141.94.221.173:3306/acosparla_travelagency";
 
     
-    private static final String USER = "greta";
-   private static final String PASSWORD = "root";
+    private static final String USER = "adil";
+    private static final String PASSWORD = "Rampage934&&";
     private static Connection connectJavaSql;
 
     public static Connection getConnection() {

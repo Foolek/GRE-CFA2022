@@ -38,6 +38,8 @@ public class TripCtrl extends HttpServlet {
 		listeTrips = null ;
 	}
 
+
+
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
 		//transmettre la liste des voyages

@@ -23,4 +23,7 @@ public abstract class JdbcDao  {
             throw new RuntimeException("Unable to close the connection", e);
         }
     }
+
 }
+
+
