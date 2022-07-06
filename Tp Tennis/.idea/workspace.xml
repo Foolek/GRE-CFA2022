@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="TpTennis:war exploded" />
+      <artifact name="TpTennis:war2" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="79b548b1-71d9-4a74-87ec-423a8c429fb0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/Exercices-prog.-procedurale.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/TD Programation procédurale.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/TDProgProceduraleJava.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/out/production/TD Programation procédurale/chapitre1/main110.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/out/production/TD Programation procédurale/chapitre1/main12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/out/production/TD Programation procédurale/chapitre1/main13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/out/production/TD Programation procédurale/chapitre1/main14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/out/production/TD Programation procédurale/chapitre1/main15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/out/production/TD Programation procédurale/chapitre1/main16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/out/production/TD Programation procédurale/chapitre1/main17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/out/production/TD Programation procédurale/chapitre1/main18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/out/production/TD Programation procédurale/chapitre1/main19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/out/production/TD Programation procédurale/chapitre2/main21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/out/production/TD Programation procédurale/chapitre2/main22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/out/production/TD Programation procédurale/chapitre2/main23.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/out/production/TD Programation procédurale/chapitre2/main24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/out/production/TD Programation procédurale/chapitre2/main25.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/out/production/TD Programation procédurale/chapitre2/main26.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/out/production/TD Programation procédurale/chapitre3/main310.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/out/production/TD Programation procédurale/chapitre3/main311.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/out/production/TD Programation procédurale/chapitre3/main312.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/out/production/TD Programation procédurale/chapitre3/main313.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/out/production/TD Programation procédurale/chapitre3/main32.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/out/production/TD Programation procédurale/chapitre3/main33.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/out/production/TD Programation procédurale/chapitre3/main34.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/out/production/TD Programation procédurale/chapitre3/main35.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/out/production/TD Programation procédurale/chapitre3/main37.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/out/production/TD Programation procédurale/chapitre3/main38.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/out/production/TD Programation procédurale/chapitre3/main39.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/out/production/TD Programation procédurale/chapitre4/main41.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/out/production/TD Programation procédurale/chapitre4/main42.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/out/production/TD Programation procédurale/chapitre4/main43.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/out/production/TD Programation procédurale/chapitre4/main44.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/out/production/TD Programation procédurale/chapitre4/main45.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/out/production/TD Programation procédurale/chapitre4/main46.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/out/production/TD Programation procédurale/chapitre4/main47.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/out/production/TD Programation procédurale/chapitre4/main48.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/out/production/TD Programation procédurale/chapitre5/main51.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/out/production/TD Programation procédurale/chapitre5/main52.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/out/production/TD Programation procédurale/chapitre5/main53.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/out/production/TD Programation procédurale/chapitre5/main54.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/out/production/TD Programation procédurale/chapitre5/main55.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/out/production/TD Programation procédurale/chapitre5/main56.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/out/production/TD Programation procédurale/chapitre5/main57.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/src/chapitre1/main110.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/src/chapitre1/main12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/src/chapitre1/main13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/src/chapitre1/main14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/src/chapitre1/main15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/src/chapitre1/main16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/src/chapitre1/main17.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/src/chapitre1/main18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/src/chapitre1/main19.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/src/chapitre2/main21.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/src/chapitre2/main22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/src/chapitre2/main23.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/src/chapitre2/main24.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/src/chapitre2/main25.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/src/chapitre2/main26.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/src/chapitre3/main310.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/src/chapitre3/main311.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/src/chapitre3/main312.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/src/chapitre3/main313.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/src/chapitre3/main32.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/src/chapitre3/main33.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/src/chapitre3/main34.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/src/chapitre3/main35.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/src/chapitre3/main37.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/src/chapitre3/main38.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/src/chapitre3/main39.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/src/chapitre4/main41.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/src/chapitre4/main42.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/src/chapitre4/main43.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/src/chapitre4/main44.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/src/chapitre4/main45.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/src/chapitre4/main46.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/src/chapitre4/main47.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/src/chapitre4/main48.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/src/chapitre5/main51.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/src/chapitre5/main52.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/src/chapitre5/main53.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/src/chapitre5/main54.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/src/chapitre5/main55.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercices-prog.-procedurale/src/chapitre5/main56.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JEE/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/.idea/libraries/mysql_connector_java_8_0_28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/TPambre.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/out/production/TPambre/controle/LireIdentInFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/out/production/TPambre/controle/ListCtrl$AddPlaceListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/out/production/TPambre/controle/ListCtrl$SuppPlaceListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/out/production/TPambre/controle/ListCtrl$TxtEditListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/out/production/TPambre/controle/ListCtrl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/out/production/TPambre/controle/PlaceCtrl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/out/production/TPambre/dao/JdbcPlaceDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/out/production/TPambre/dao/JdbcTripDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/out/production/TPambre/dao/PlaceDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/out/production/TPambre/dao/TripDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/out/production/TPambre/entites/Place.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/out/production/TPambre/entites/Trip.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/out/production/TPambre/entites/Utilisateur.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/out/production/TPambre/main/MainClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/out/production/TPambre/persistance/ConnectionManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/out/production/TPambre/persistance/DaoFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/out/production/TPambre/persistance/JdbcDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/out/production/TPambre/persistance/MySqlDaoFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/out/production/TPambre/utilisateurs.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/out/production/TPambre/vue/AddTripFen$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/out/production/TPambre/vue/AddTripFen$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/out/production/TPambre/vue/AddTripFen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/out/production/TPambre/vue/IdentifyUser$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/out/production/TPambre/vue/IdentifyUser$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/out/production/TPambre/vue/IdentifyUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/out/production/TPambre/vue/MainMenu$afficherMenuListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/out/production/TPambre/vue/MainMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/out/production/TPambre/vue/MenuShowCity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/out/production/TPambre/vue/MenuShowTrip.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/out/production/TPambre/vue/PlaceComboBoxModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/out/production/TPambre/vue/VueInsertDelInList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/src/ConnectionManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/src/DaoFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/src/Fenetre/AddTripFen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/src/Fenetre/IdentifyUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/src/Fenetre/MainMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/src/Fenetre/MenuShowCity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/src/Fenetre/MenuShowTrip.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/src/Fenetre/PlaceComboBoxModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/src/Fenetre/VueInsertDelInList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/src/JdbcDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/src/JdbcPlaceDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/src/JdbcTripDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/src/LireIdentInFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/src/ListCtrl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/src/MySqlDaoFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/src/Place.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/src/PlaceCtrl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/src/PlaceDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/src/Trip.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/src/TripDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/src/Utilisateur.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/src/main/MainClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaParadise/src/utilisateurs.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPDataBaseJDBC/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPDataBaseJDBC/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPDataBaseJDBC/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPDataBaseJDBC/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPDataBaseJDBC/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPDataBaseJDBC/TPDataBaseJDBC.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPDataBaseJDBC/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPFile/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPFile/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPFile/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPFile/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPFile/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPFile/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPFile/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPFile/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPFile/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPFile/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPFile/09_InputOutput.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPFile/TPFile.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPFile/TPFileGreta2022.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPFile/out/production/TPFile/TD1GestionExceptionSurFichier/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPFile/out/production/TPFile/TD2ExceptionClasseFile/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPFile/out/production/TPFile/fichier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPFile/out/production/TPFile/fichierTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPFile/src/TD1GestionExceptionSurFichier/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPFile/src/TD2ExceptionClasseFile/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPFile/src/fichier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPFile/src/fichierTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPhtmlCSS/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPhtmlCSS/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPhtmlCSS/.idea/artifacts/JEE_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPhtmlCSS/.idea/artifacts/JEE_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPhtmlCSS/.idea/artifacts/TPhtmlCSS_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPhtmlCSS/.idea/artifacts/TPhtmlCSS_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPhtmlCSS/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPhtmlCSS/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPhtmlCSS/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPhtmlCSS/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPhtmlCSS/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPhtmlCSS/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPhtmlCSS/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPhtmlCSS/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPhtmlCSS/src/main/java/com/example/jee/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPhtmlCSS/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPhtmlCSS/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPinterface/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPinterface/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPinterface/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPinterface/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPinterface/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPinterface/TPinterface.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPinterface/TpAcosParlaJavaInterface.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPinterface/src/TD1/Calculatrice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPinterface/src/TD1/IOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPinterface/src/TD1/mainCalculatrice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPinterface/src/TD2-ExoFigures-Interfaces.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPinterface/src/TD2/constrForme/point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPinterface/src/TD2/constrForme/segment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPinterface/src/TD2/figure/deplacable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPinterface/src/TD2/figure/dessinable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPinterface/src/TD2/figure/figure.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPinterface/src/TD2/figure/surface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPinterface/src/TD2/formeGeo/rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPinterface/src/TD2/formeGeo/triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPinterface/src/TD2/mainFigureGeo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPinterface/src/TD3/Livre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPinterface/src/TD3/enfant/bd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPinterface/src/TD3/enfant/roman.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPinterface/src/TD3/enfant/romanGraphique.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPinterface/src/TD3/mainLivre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/InterfaceGraphiqueAvecSwing.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/TPSwing.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/TPswing.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/out/production/TPswing/Cours/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/out/production/TPswing/Cours/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/out/production/TPswing/Cours/MyFen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/out/production/TPswing/Exo1/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/out/production/TPswing/Exo1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/out/production/TPswing/Exo1/fenetre$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/out/production/TPswing/Exo1/fenetre$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/out/production/TPswing/Exo1/fenetre$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/out/production/TPswing/Exo1/fenetre.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/out/production/TPswing/Exo2/FrameRadioBtnExo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/out/production/TPswing/Exo2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/out/production/TPswing/Exo2/images tp/Bird.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/out/production/TPswing/Exo2/images tp/Cat.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/out/production/TPswing/Exo2/images tp/Dog.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/out/production/TPswing/Exo2/images tp/Rabbit.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/out/production/TPswing/Exo2/images tp/geek_---.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/out/production/TPswing/Exo2/images tp/geek_--t.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/out/production/TPswing/Exo2/images tp/geek_-h-.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/out/production/TPswing/Exo2/images tp/geek_-ht.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/out/production/TPswing/Exo2/images tp/geek_g--.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/out/production/TPswing/Exo2/images tp/geek_g-t.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/out/production/TPswing/Exo2/images tp/geek_gh-.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/out/production/TPswing/Exo2/images tp/geek_ght.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/src/Cours/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/src/Cours/MyFen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/src/Exo1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/src/Exo1/fenetre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/src/Exo2/FrameRadioBtnExo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/src/Exo2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/src/Exo2/images tp/Bird.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/src/Exo2/images tp/Cat.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/src/Exo2/images tp/Dog.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/src/Exo2/images tp/Rabbit.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/src/Exo2/images tp/geek_---.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/src/Exo2/images tp/geek_--t.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/src/Exo2/images tp/geek_-h-.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/src/Exo2/images tp/geek_-ht.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/src/Exo2/images tp/geek_g--.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/src/Exo2/images tp/geek_g-t.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/src/Exo2/images tp/geek_gh-.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPswing/src/Exo2/images tp/geek_ght.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpClasseObjetEncapsulation/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpClasseObjetEncapsulation/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpClasseObjetEncapsulation/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpClasseObjetEncapsulation/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpClasseObjetEncapsulation/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpClasseObjetEncapsulation/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpClasseObjetEncapsulation/TDClasseObjetEncapsulation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpClasseObjetEncapsulation/TpClasseObjetEncapsulation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpClasseObjetEncapsulation/TpClasseObjetEncapsulation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpClasseObjetEncapsulation/out/production/TDClasseObjetEncapsulation/TD1/duree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpClasseObjetEncapsulation/out/production/TDClasseObjetEncapsulation/TD1/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpClasseObjetEncapsulation/out/production/TDClasseObjetEncapsulation/TD2/calculatrice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpClasseObjetEncapsulation/out/production/TDClasseObjetEncapsulation/TD2/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpClasseObjetEncapsulation/out/production/TDClasseObjetEncapsulation/TD3/NewInteger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpClasseObjetEncapsulation/out/production/TDClasseObjetEncapsulation/TD3/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpClasseObjetEncapsulation/out/production/TDClasseObjetEncapsulation/TD4/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpClasseObjetEncapsulation/out/production/TDClasseObjetEncapsulation/TD4/point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpClasseObjetEncapsulation/src/TD1/duree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpClasseObjetEncapsulation/src/TD1/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpClasseObjetEncapsulation/src/TD2/calculatrice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpClasseObjetEncapsulation/src/TD2/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpClasseObjetEncapsulation/src/TD3/NewInteger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpClasseObjetEncapsulation/src/TD3/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpClasseObjetEncapsulation/src/TD4/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpClasseObjetEncapsulation/src/TD4/point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpCollection/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpCollection/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpCollection/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpCollection/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpCollection/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpCollection/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpCollection/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpCollection/07_Collections.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpCollection/ExoCollection.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpCollection/TPComparatorAutoFormation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpCollection/TpCollection.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpCollection/src/TD1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpCollection/src/TD2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpCollection/src/TD2/Perroquet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpCollection/src/TD3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpCollection/src/TD4_5_6/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpCollection/src/TD4_5_6/Point/ComparePointX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpCollection/src/TD4_5_6/Point/ComparePointY.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpCollection/src/TD4_5_6/Point/Pixel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpCollection/src/TD4_5_6/Point/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpCollection/src/TD4_5_6/Point/Point3D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpCollection/src/TD7/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpCollection/src/TP_Comparator/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpCollection/src/TP_Comparator/Society/CompareEtudiant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpCollection/src/TP_Comparator/Society/Humans/Comparateurs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpCollection/src/TP_Comparator/Society/Humans/Etudiant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpCollection/src/TP_Comparator/Society/IteratorSociety.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpCollection/src/TP_Comparator/Society/Societe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpExcetion/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpExcetion/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpExcetion/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpExcetion/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpExcetion/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpExcetion/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpExcetion/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpExcetion/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpExcetion/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpExcetion/08_Exception.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpExcetion/TpExcetion.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpExcetion/exoException.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpExcetion/out/production/TpExcetion/TD1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpExcetion/out/production/TpExcetion/TD2calculatrice/Calculatrice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpExcetion/out/production/TpExcetion/TD2calculatrice/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpExcetion/out/production/TpExcetion/TD3birthDate/DateDDMMYYYY.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpExcetion/out/production/TpExcetion/TD3birthDate/Erreurs/ExceptionSubClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpExcetion/out/production/TpExcetion/TD3birthDate/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpExcetion/src/TD1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpExcetion/src/TD2calculatrice/Calculatrice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpExcetion/src/TD2calculatrice/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpExcetion/src/TD3birthDate/DateDDMMYYYY.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpExcetion/src/TD3birthDate/Erreurs/ExceptionSubClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpExcetion/src/TD3birthDate/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpHeritageEtPolymorphisme/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpHeritageEtPolymorphisme/.idea/git_toolbox_prj.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpHeritageEtPolymorphisme/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpHeritageEtPolymorphisme/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpHeritageEtPolymorphisme/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpHeritageEtPolymorphisme/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpHeritageEtPolymorphisme/TpAcosParlaJavaHeritagePolymorphisme(1).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpHeritageEtPolymorphisme/TpHeritageEtPolymorphisme.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpHeritageEtPolymorphisme/TpHéritageEtPolymorphisme.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpHeritageEtPolymorphisme/out/production/TpHéritageEtPolymorphisme/TD1/Livre.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpHeritageEtPolymorphisme/out/production/TpHéritageEtPolymorphisme/TD1/enfant/bd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpHeritageEtPolymorphisme/out/production/TpHéritageEtPolymorphisme/TD1/enfant/roman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpHeritageEtPolymorphisme/out/production/TpHéritageEtPolymorphisme/TD2/enfant/ConnecteurBinaire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpHeritageEtPolymorphisme/out/production/TpHéritageEtPolymorphisme/TD2/enfant/and.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpHeritageEtPolymorphisme/out/production/TpHéritageEtPolymorphisme/TD2/enfant/or.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpHeritageEtPolymorphisme/out/production/TpHéritageEtPolymorphisme/TD2/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpHeritageEtPolymorphisme/out/production/TpHéritageEtPolymorphisme/TD3/enfant/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpHeritageEtPolymorphisme/out/production/TpHéritageEtPolymorphisme/TD3/enfant/Animaux/Mamifere.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpHeritageEtPolymorphisme/out/production/TpHéritageEtPolymorphisme/TD3/enfant/Animaux/Oiseau.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpHeritageEtPolymorphisme/out/production/TpHéritageEtPolymorphisme/TD3/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpHeritageEtPolymorphisme/src/TD1/Livre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpHeritageEtPolymorphisme/src/TD1/enfant/bd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpHeritageEtPolymorphisme/src/TD1/enfant/roman.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpHeritageEtPolymorphisme/src/TD2/enfant/ConnecteurBinaire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpHeritageEtPolymorphisme/src/TD2/enfant/and.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpHeritageEtPolymorphisme/src/TD2/enfant/or.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpHeritageEtPolymorphisme/src/TD2/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpHeritageEtPolymorphisme/src/TD3/enfant/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpHeritageEtPolymorphisme/src/TD3/enfant/Animaux/Mamifere.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpHeritageEtPolymorphisme/src/TD3/enfant/Animaux/Oiseau.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpHeritageEtPolymorphisme/src/TD3/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/.idea/artifacts/TpTennis_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/.idea/artifacts/TpTennis_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/.idea/libraries/Java_EE_6_Java_EE_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/.idea/libraries/jstl_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/.idea/libraries/mysql_connector_java.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/TpTennis.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/lib/javax.annotation.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/lib/javax.ejb.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/lib/javax.jms.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/lib/javax.persistence.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/lib/javax.resource.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/lib/javax.servlet.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/lib/javax.servlet.jsp.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/lib/javax.servlet.jsp.jstl.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/lib/javax.transaction.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/lib/mysql-connector-java-8.0.28.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/lib/protobuf-java-3.11.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/src/main/java/controle/CtlCourt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/src/main/java/controle/CtlVille.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/src/main/java/dao/CourtDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/src/main/java/dao/VilleDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/src/main/java/entities/Court.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/src/main/java/entities/Trip.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/src/main/java/entities/Ville.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/src/main/webapp/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/src/main/webapp/WEB-INF/lib/mysql-connector-java-5.1.45-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/src/main/webapp/WEB-INF/lib/mysql-connector-java-8.0.28.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/src/main/webapp/court.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/src/main/webapp/enregistrementCourt.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/src/main/webapp/enregistrementVille.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/src/main/webapp/llll.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/src/main/webapp/ville.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/target/TpTennis-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/target/TpTennis-1.0-SNAPSHOT/WEB-INF/classes/com/example/tptennis/HelloServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/target/TpTennis-1.0-SNAPSHOT/WEB-INF/classes/controle/CtlCourt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/target/TpTennis-1.0-SNAPSHOT/WEB-INF/classes/controle/CtlVille.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/target/TpTennis-1.0-SNAPSHOT/WEB-INF/classes/dao/CourtDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/target/TpTennis-1.0-SNAPSHOT/WEB-INF/classes/dao/VilleDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/target/TpTennis-1.0-SNAPSHOT/WEB-INF/classes/entities/Court.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/target/TpTennis-1.0-SNAPSHOT/WEB-INF/classes/entities/Ville.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/target/TpTennis-1.0-SNAPSHOT/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/target/TpTennis-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.45-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/target/TpTennis-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-8.0.28.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/target/TpTennis-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/target/TpTennis-1.0-SNAPSHOT/court.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/target/TpTennis-1.0-SNAPSHOT/enregistrementCourt.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/target/TpTennis-1.0-SNAPSHOT/enregistrementVille.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/target/TpTennis-1.0-SNAPSHOT/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/target/TpTennis-1.0-SNAPSHOT/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/target/TpTennis-1.0-SNAPSHOT/mysql-connector-java-5.1.45-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/target/TpTennis-1.0-SNAPSHOT/mysql-connector-java-8.0.28.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/target/TpTennis-1.0-SNAPSHOT/ville.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/target/classes/controle/CtlCourt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/target/classes/controle/CtlVille.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/target/classes/dao/CourtDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/target/classes/dao/VilleDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/target/classes/entities/Court.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TpTennis/target/classes/entities/Ville.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autonomieTravelAgence/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autonomieTravelAgence/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autonomieTravelAgence/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autonomieTravelAgence/.idea/libraries/mysql_connector_java_8_0_28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autonomieTravelAgence/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autonomieTravelAgence/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autonomieTravelAgence/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autonomieTravelAgence/autonomieTravelAgence.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autonomieTravelAgence/mysql-connector-java-8.0.28(1).jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autonomieTravelAgence/out/production/autonomieTravelAgence/exoDaoTravelAgency/ConnectionManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autonomieTravelAgence/out/production/autonomieTravelAgence/exoDaoTravelAgency/DaoFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autonomieTravelAgence/out/production/autonomieTravelAgence/exoDaoTravelAgency/JdbcDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autonomieTravelAgence/out/production/autonomieTravelAgence/exoDaoTravelAgency/JdbcPlaceDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autonomieTravelAgence/out/production/autonomieTravelAgence/exoDaoTravelAgency/JdbcTripDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autonomieTravelAgence/out/production/autonomieTravelAgence/exoDaoTravelAgency/Launcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autonomieTravelAgence/out/production/autonomieTravelAgence/exoDaoTravelAgency/MySqlDaoFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autonomieTravelAgence/out/production/autonomieTravelAgence/exoDaoTravelAgency/Place.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autonomieTravelAgence/out/production/autonomieTravelAgence/exoDaoTravelAgency/PlaceDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autonomieTravelAgence/out/production/autonomieTravelAgence/exoDaoTravelAgency/Trip.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autonomieTravelAgence/out/production/autonomieTravelAgence/exoDaoTravelAgency/TripDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autonomieTravelAgence/out/production/autonomieTravelAgence/exoDaoTravelAgency/mainCoursDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autonomieTravelAgence/src/TpTravelAgency/ConnectionManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autonomieTravelAgence/src/TpTravelAgency/Dao/JdbcPlaceDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autonomieTravelAgence/src/TpTravelAgency/Dao/JdbcTripDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autonomieTravelAgence/src/TpTravelAgency/Dao/PlaceDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autonomieTravelAgence/src/TpTravelAgency/Dao/TripDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autonomieTravelAgence/src/TpTravelAgency/DaoFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autonomieTravelAgence/src/TpTravelAgency/JdbcDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autonomieTravelAgence/src/TpTravelAgency/Launcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autonomieTravelAgence/src/TpTravelAgency/MySqlDaoFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autonomieTravelAgence/src/TpTravelAgency/Place.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autonomieTravelAgence/src/TpTravelAgency/Trip.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autonomieTravelAgence/src/TpTravelAgency/mainCoursDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autonomieTravelAgence/travelAgency.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exoRequeteSQL/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exoRequeteSQL/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exoRequeteSQL/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exoRequeteSQL/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exoRequeteSQL/exoRequeteSQL.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exoRequeteSQL/src/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="8ugwt3c4" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="283ySk1bTrac35Em62O3FxUJIBL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
+    "WebServerToolWindowPanel.toolwindow.show.date": "false",
+    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
+    "WebServerToolWindowPanel.toolwindow.show.size": "false",
+    "last_opened_file_path": "C:/Users/Foolek/Documents/GitHub/GRE-CFA2022/Tp Tennis",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "fileTemplates"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="entities" />
+      <recent name="dao" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Github\GRE-CFA2022\TpTennis\src\main\webapp" />
+      <recent name="E:\Documents\Github\TpTennis\src\main\webapp\WEB-INF\lib" />
+      <recent name="E:\Documents\Github\TpTennis\src\main\webapp" />
+      <recent name="E:\Documents\Github\TpTennis\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="openRunningConfigInTab" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.62" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" APPLICATION_SERVER_NAME="Tomcat 9.0.62" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="HOST" value="141.94.221.173" />
+      <option name="LOCAL" value="false" />
+      <option name="UPDATING_POLICY" value="hot-swap-classes" />
+      <deployment>
+        <artifact name="TpTennis:war2">
+          <settings>
+            <option name="CONTEXT_PATH" value="/TpTennis_war2" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT_XML" />
+                <option name="transportStagingTarget">
+                  <TransportTarget>
+                    <option name="id" value="b4215ec9-bfda-471c-8eea-0b9f6d1bc116" />
+                    <id>b4215ec9-bfda-471c-8eea-0b9f6d1bc116</id>
+                  </TransportTarget>
+                </option>
+                <option name="watchedLocalPath" value="" />
+                <watched-path />
+                <name>CONTEXT_XML</name>
+                <transport-target>
+                  <TransportTarget>
+                    <option name="id" value="b4215ec9-bfda-471c-8eea-0b9f6d1bc116" />
+                    <id>b4215ec9-bfda-471c-8eea-0b9f6d1bc116</id>
+                  </TransportTarget>
+                </transport-target>
+              </WatchedTargetModelImpl>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <option name="stagingRemotePath" value="test" />
+                <option name="transportStagingTarget">
+                  <TransportTarget>
+                    <option name="id" value="10bab113-a872-4f1e-a5c2-1ae35026322f" />
+                    <id>10bab113-a872-4f1e-a5c2-1ae35026322f</id>
+                  </TransportTarget>
+                </option>
+                <staging-path>test</staging-path>
+                <name>STAGING</name>
+                <transport-target>
+                  <TransportTarget>
+                    <option name="id" value="10bab113-a872-4f1e-a5c2-1ae35026322f" />
+                    <id>10bab113-a872-4f1e-a5c2-1ae35026322f</id>
+                  </TransportTarget>
+                </transport-target>
+              </StagingTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" value="f3e6184b-3ee8-45c8-959b-d06562e0cc4f" />
+          <host-id>f3e6184b-3ee8-45c8-959b-d06562e0cc4f</host-id>
+        </data>
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="TOMCAT_LOCALHOST_LOG_ID" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="62846" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="TpTennis:war exploded" />
+          <artifact name="TpTennis:war2" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79b548b1-71d9-4a74-87ec-423a8c429fb0" name="Changes" comment="" />
+      <created>1650459570504</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650459570504</updated>
+      <workItem from="1650459572284" duration="4495000" />
+      <workItem from="1650464194412" duration="2323000" />
+      <workItem from="1650476849035" duration="536000" />
+      <workItem from="1650526364667" duration="1900000" />
+      <workItem from="1650528325996" duration="3000" />
+      <workItem from="1650528583018" duration="1507000" />
+      <workItem from="1650533787012" duration="5991000" />
+      <workItem from="1650581339673" duration="5412000" />
+      <workItem from="1650618294327" duration="5645000" />
+      <workItem from="1650673364276" duration="1698000" />
+      <workItem from="1650713221776" duration="1431000" />
+      <workItem from="1650870762982" duration="11014000" />
+      <workItem from="1650895059844" duration="1290000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

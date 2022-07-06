@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="unnamed" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0815b3ba-4d48-4936-9a7e-e565dcd7eb99" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/unnamed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/.idea/libraries/mysql_connector_java_8_0_28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/TPambre.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/out/production/TPambre/controle/LireIdentInFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/out/production/TPambre/controle/ListCtrl$AddPlaceListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/out/production/TPambre/controle/ListCtrl$SuppPlaceListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/out/production/TPambre/controle/ListCtrl$TxtEditListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/out/production/TPambre/controle/ListCtrl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/out/production/TPambre/controle/PlaceCtrl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/out/production/TPambre/dao/JdbcPlaceDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/out/production/TPambre/dao/JdbcTripDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/out/production/TPambre/dao/PlaceDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/out/production/TPambre/dao/TripDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/out/production/TPambre/entites/Place.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/out/production/TPambre/entites/Trip.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/out/production/TPambre/entites/Utilisateur.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/out/production/TPambre/main/MainClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/out/production/TPambre/persistance/ConnectionManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/out/production/TPambre/persistance/DaoFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/out/production/TPambre/persistance/JdbcDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/out/production/TPambre/persistance/MySqlDaoFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/out/production/TPambre/utilisateurs.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/out/production/TPambre/vue/AddTripFen$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/out/production/TPambre/vue/AddTripFen$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/out/production/TPambre/vue/AddTripFen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/out/production/TPambre/vue/IdentifyUser$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/out/production/TPambre/vue/IdentifyUser$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/out/production/TPambre/vue/IdentifyUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/out/production/TPambre/vue/MainMenu$afficherMenuListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/out/production/TPambre/vue/MainMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/out/production/TPambre/vue/MenuShowCity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/out/production/TPambre/vue/MenuShowTrip.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/out/production/TPambre/vue/PlaceComboBoxModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/out/production/TPambre/vue/VueInsertDelInList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/src/main/MainClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp Java Paradise/src/utilisateurs.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Tp_paradise_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Tp_paradise_war2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Tp_paradise_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tp_paradise_war2/Tp paradise_war.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controle/TripCtrl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controle/TripCtrl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dao/JdbcDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dao/JdbcDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/persistance/ConnectionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/persistance/ConnectionManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/mysql-connector-java-5.1.45-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/mysql-connector-java-8.0.28.jar" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28HQBd5rQUbMI8IZ5BOfjtABCNU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Foolek/Documents/GitHub/JAVA/GRE-CFA2022/Tp paradise/Tp_paradise_war2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.sourceCode.MySQL, MariaDB"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql",
+      "mariadb"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Foolek\Documents\GitHub\JAVA\GRE-CFA2022\Tp paradise\src\main\webapp\WEB-INF\lib" />
+      <recent name="C:\Users\Foolek\Documents\GitHub\Tp paradise\src\main\webapp\WEB-INF" />
+      <recent name="C:\Users\Foolek\Documents\GitHub\Tp paradise\src\main\webapp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Foolek\Documents\GitHub\Tp paradise\src\main\webapp\WEB-INF\lib" />
+      <recent name="C:\Users\Foolek\Documents\GitHub\Tp paradise\src\main\webapp\WEB-INF" />
+      <recent name="C:\Users\Foolek\Documents\GitHub\Tp paradise\src\main\webapp" />
+      <recent name="C:\Users\Foolek\Documents\GitHub\Tp paradise\src\main\webapp\css" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.62" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.62" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="openjdk-17">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/Tp_paradise_war_exploded/index.jsp" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="Tp paradise:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Tp_paradise_war_exploded" />
+          </settings>
+        </artifact>
+        <artifact name="Tp paradise:war2">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Tp_paradise_war2" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="1ea3018d-fce5-4399-b5fc-6d33445d0a78" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="64920" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0815b3ba-4d48-4936-9a7e-e565dcd7eb99" name="Changes" comment="" />
+      <created>1650870897049</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650870897049</updated>
+      <workItem from="1650870898269" duration="424000" />
+      <workItem from="1650891716560" duration="16589000" />
+      <workItem from="1651448551801" duration="916000" />
+      <workItem from="1651522205979" duration="1380000" />
+      <workItem from="1651573375214" duration="559000" />
+      <workItem from="1654689867378" duration="3102000" />
+      <workItem from="1654697445271" duration="10240000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
